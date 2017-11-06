@@ -3,7 +3,7 @@ Title: Prepares Characters Vectors for TTS
 Version: 0.0.0.9000
 Authors@R: person("Ian", "Moran", email = "ian.moran11@gmail.com", role = c("aut", "cre"))
 Description: This packages take a chacter vector and removes numbers/words that prevent it from working well with text-to-speech.
-Depends: R (>= 3.4.1)
+Depends: R (>= 3.3.1)
 Imports:
 	dplyr,
 	stringr
